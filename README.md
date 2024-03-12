@@ -1,1 +1,3 @@
 # Eternal Nightfall
+
+Eternal Nightfall is a captivating 2D RPG game developed in C++ with SFML, set in a dark and atmospheric world filled with vampires, mystery, and supernatural intrigue. As a newly turned vampire, players embark on an immersive journey through haunting landscapes, intricate dungeons, and gothic cities, uncovering the secrets of their own vampiric lineage while navigating complex social dynamics within the vampire society. With richly detailed pixel art visuals and immersive sound design, Eternal Nightfall offers players an unforgettable experience of immortality, temptation, and redemption as they shape their own destiny in the eternal night.
