@@ -9,7 +9,7 @@
       "stopAtEntry": false,
       "externalConsole": true,
       "cwd": "c:/Users/chenc/OneDrive/Desktop/GitHub Projects/Eternal-Nightfall",
-      "program": "c:/Users/chenc/OneDrive/Desktop/GitHub Projects/Eternal-Nightfall/build/Debug/outDebug",
+      "program": "c:/Users/chenc/OneDrive/Desktop/GitHub Projects/Eternal-Nightfall/main.exe",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
