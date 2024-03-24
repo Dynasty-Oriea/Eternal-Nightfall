@@ -1,2 +1,30 @@
-/.vs
-/.vscode
+# Ignore build output
+out/
+
+# Ignore CMake build files
+CMakeFiles/
+CMakeCache.txt
+CMakeScripts/
+CMakePresets.json
+CMakeSettings.json
+CTestTestfile.cmake
+cmake_install.cmake
+Makefile
+
+# Ignore Visual Studio files
+.vs/
+*.suo
+*.user
+*.sln.docstates
+
+# Ignore executables and libraries
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Ignore generated documentation
+doc/
+
+# Ignore macOS file system metadata
+.DS_Store

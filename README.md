@@ -8,6 +8,7 @@ Eternal Nightfall is a captivating 2D RPG game developed in C++ with SFML, set i
 - assets/audio/music/ - Background Music Tracks.
 - assets/audio/sound_effects/ - Sound Effects for Character Movement and Combat Actions.
 - assets/fonts/ - Font files for Text Rendering.
+- lib/ - External library files such as SFML.
 - include/ - Header files for game entities, game logic and game engine.
 - src/ - Implementation files for game entities, game logic and game engine.
 - resources/ - Configuration files for game settings (window size, controls, etc) and Text files for NPC dialogue, Quests and Objectives
